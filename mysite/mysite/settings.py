@@ -18,7 +18,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # -------------------------------------------------------------------
 SECRET_KEY = 'django-insecure-2yo$2m1$2_b0yr+0cupoh)6q5i-imgp*#c=q$m=@tl__d4@sks'
 DEBUG = True
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['login-registration-app---django.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # -------------------------------------------------------------------
